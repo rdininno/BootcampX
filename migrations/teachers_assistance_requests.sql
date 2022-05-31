@@ -1,5 +1,5 @@
 DROP TABLE IF EXISTS teachers;
-DROP TABLE IF EXISTS assistance_request;
+DROP TABLE IF EXISTS assistance_requests;
 
 CREATE TABLE teachers (
   id SERIAL PRIMARY KEY NOT NULL,
